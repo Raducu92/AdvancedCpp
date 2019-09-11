@@ -1,0 +1,5 @@
+﻿  Dog.cpp
+c:\users\mihai\source\repos\teste\teste\dog.cpp(18): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Teste.cpp
+c:\users\mihai\source\repos\teste\teste\teste.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
